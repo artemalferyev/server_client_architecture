@@ -9,9 +9,9 @@ Features
 	•	Runs locally on http://localhost:4000/
 
 Project Structure
-/project-root  
+
 │── server.py       # Flask backend  
-│── client.html     # Frontend  
+│── index.html      # Frontend  
 │── README.md       # Documentation  
 
 How to Run the Project
