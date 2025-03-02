@@ -10,11 +10,13 @@ Features
 
 Project Structure
 
+```sh
 │── /.idea
 │── README.md       # Documentation
 │── index.html      # Frontend  
-│── license         # MIT
+│── LICENSE         # MIT
 │── server.py       # Flask backend
+```
 
 How to Run the Project
 	1.	Install dependencies:
