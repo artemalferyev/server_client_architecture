@@ -17,7 +17,7 @@ Project Structure
 │── LICENSE         # MIT
 │── server.py       # Flask backend
 ```
-# How to Run the Project
+How to Run the Project
 
 1.      Install dependencies:
   pip install flask flask-cors  
