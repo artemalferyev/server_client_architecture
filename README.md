@@ -18,8 +18,7 @@ Project Structure
 │── server.py       # Flask backend
 ```
 How to Run the Project
-
-1.      Install dependencies:
+1. Install dependencies:
   pip install flask flask-cors  
 2.	Run the server:
   python server.py  
