@@ -24,7 +24,7 @@ How to Run the Project
  	2.	Run the server:
   python server.py  
   The server will start on http://localhost:4000.
-	3.	Open client.html in a browser. The page will fetch and display the message from the server.
+	3.	Open index.html in a browser. The page will fetch and display the message from the server.
 
 Example Output
 Server response (JSON):
