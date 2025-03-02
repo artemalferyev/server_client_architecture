@@ -17,14 +17,14 @@ Project Structure
 │── LICENSE         # MIT
 │── server.py       # Flask backend
 ```
+# How to Run the Project
 
-How to Run the Project
-	1.	Install dependencies:
+1. **Install dependencies:**
  pip install flask flask-cors  
- 	2.	Run the server:
+2.	Run the server:
   python server.py  
   The server will start on http://localhost:4000.
-	3.	Open index.html in a browser. The page will fetch and display the message from the server.
+3.	Open index.html in a browser. The page will fetch and display the message from the server.
 
 Example Output
 Server response (JSON):
