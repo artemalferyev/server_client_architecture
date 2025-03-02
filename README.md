@@ -10,9 +10,11 @@ Features
 
 Project Structure
 
-│── server.py       # Flask backend  
+│── /.idea
+│── README.md       # Documentation
 │── index.html      # Frontend  
-│── README.md       # Documentation  
+│── license         # MIT
+│── server.py       # Flask backend
 
 How to Run the Project
 	1.	Install dependencies:
