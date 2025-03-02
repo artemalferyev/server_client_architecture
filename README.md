@@ -19,8 +19,8 @@ Project Structure
 ```
 # How to Run the Project
 
-1. **Install dependencies:**
- pip install flask flask-cors  
+1.      Install dependencies:
+  pip install flask flask-cors  
 2.	Run the server:
   python server.py  
   The server will start on http://localhost:4000.
